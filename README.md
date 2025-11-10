@@ -1,98 +1,105 @@
-🌐 Frontend Development Learning Repository
+# 🌐 Frontend Development Learning Repository
 
-This repository reflects my daily progress, tasks, and hands-on assignments during the Frontend Development training under the guidance of Mr. Deepak Prasad and Mr. Sahil Kumar.
+This repository showcases my **daily progress, hands-on practice, and assignments** throughout the **Frontend Development Training** under the guidance of **Mr. Deepak Prasad** and **Mr. Sahil Kumar**.
 
-Each topic is maintained in a separate Git branch to keep the workflow organized and easy to track.
+To maintain clear progress tracking, **each topic is stored in a dedicated Git branch.**
 
-📚 Course Journey Overview
+---
 
-The course focuses on building strong fundamentals in frontend technologies, beginning with HTML, then moving into CSS, Flexbox, Grid Layout, Animations, and eventually Responsive Web Design.
+## 📚 Course Roadmap Overview
 
-🧠 Learning Flow
+The course builds a strong understanding of the core frontend stack starting from **HTML**, moving through **CSS**, **Layout Techniques**, **Animations**, and finally **Responsive Web Design**.
 
-🌍 Getting Started with Web Development
+### 🚀 Learning Milestones
+| Stage | Topic Covered |
+|------|---------------|
+| 1️⃣ | Getting started with Web Basics (Web, Server, Ports) |
+| 2️⃣ | HTML Foundation (Tags, Lists, Media, Hyperlinks) |
+| 3️⃣ | Block vs Inline Elements |
+| 4️⃣ | Working with Iframes |
+| 5️⃣ | CSS Basics (Selectors, Colors, Typography) |
+| 6️⃣ | Flexbox & Grid Layout |
+| 7️⃣ | CSS Box Model & Spacing Techniques |
+| 8️⃣ | Pseudo-classes, Hover Effects & Animations |
+| 9️⃣ | Responsive Web Design using Media Queries |
+| 🔟 | Introduction to Bootstrap |
 
-🧱 Basics of HTML
+---
 
-🧩 Block vs Inline Elements
+## 🗂 Repository Branch Structure
 
-🪟 Working with Iframes
+| Branch Name | Description |
+|------------|-------------|
+| `main` | General project overview & documentation |
+| `intro-to-web-dev` | Basics of web architecture, localhost & ports |
+| `html` | Core HTML tags & structure building |
+| `html-block-inline-elements` | Block vs Inline elements visualization |
+| `html-iframes` | Embedding maps, video & external pages |
+| `css` | CSS selectors, borders, backgrounds & text styles |
+| `flex` | Practicing Flexbox layouts |
+| `css-model` | Box Model, Gradient, and UI layout structure |
+| `css-classes` | Pseudo-classes & animation effects |
+| `responsive-css` | Responsive web design with media queries |
 
-🎨 CSS Fundamentals
+---
 
-🧭 Layouts using Flexbox & Grid
+## 📝 Assignments & Tasks
 
-📦 Understanding the Box Model
+| Date | Topic | Task Description |
+|------|--------|----------------|
+| **Oct 9** | Intro to Web Dev | Designed a timetable using `<table>` |
+| **Oct 9** | HTML Basics | Created first structured webpage |
+| **Oct 10** | Block & Inline | Demonstrated difference between display behaviors |
+| **Oct 10** | Iframes | Embedded Google Maps & YouTube Videos |
+| **Oct 16** | CSS Basics | Styled elements with selectors & visual design |
+| **Oct 16** | Flexbox & Grid | Created flexible and responsive layouts |
+| **Oct 31** | CSS Box Model | Built a calculator layout using Grid |
+| **Oct 31** | Pseudo-classes | Added hover, active, tooltip & transitions |
+| **Oct 31** | Responsive Design | Built mobile-first responsive layouts |
 
-✨ Pseudo-classes & Animation Effects
+---
 
-📱 Fully Responsive Design
+## 📅 Daily Progress Summary
 
-💎 Introduction to Bootstrap
+| Date | Progress Overview |
+|------|------------------|
+| **Oct 9** | Learned web workflow + HTML Table |
+| **Oct 10** | Explored block vs inline HTML behavior |
+| **Oct 13** | Introduction to CSS styling principles |
+| **Oct 16** | Built Flexbox & Grid based layouts |
+| **Oct 30** | Practiced Box Model and gradient backgrounds |
+| **Oct 31** | Added animations using transition & transform |
+| **Nov 3** | Designed a fully responsive web page |
 
-🗂 Repository Branch Structure
+---
 
-Branch Name	Description
+## 🧰 Tools & Technologies Used
 
-main	General project overview & README
-intro-to-web-dev	Basics of web architecture, localhost & ports
-html	Core HTML: headings, lists, images, links
-html-block-&inline-elements	Difference between Block and Inline elements
-html-iframes	Embedding external content with <iframe>
-css	CSS selectors, colors, backgrounds, borders
-flex	Flexbox layout practice
-css-model	CSS Box Model, gradients, and UI structure
-css-classes	Pseudo-classes and animations
-responsive-css	Media queries and responsive page building
+| Tool/Tech | Purpose |
+|----------|---------|
+| **VS Code + Live Server** | Real-time development preview |
+| **Git & GitHub** | Version control |
+| **HTML5** | Content structure |
+| **CSS3** | Styling & layout |
+| **Flexbox / Grid** | Modern responsive layout system |
+| **Bootstrap** *(later stage)* | UI components and responsiveness |
 
-🧩 Assignments & Tasks
+---
 
-Date	Topic	Task Description
-Oct 9	Intro to Web Dev	Designed a timetable using <table>
-Oct 9	HTML Basics	Built first structured webpage
-Oct 10	Block & Inline Elements	Showcased layout behavior
-Oct 10	Iframes	Embedded Google Maps and YouTube videos
-Oct 16	CSS Basics	Styled elements using selectors and classes
-Oct 16	Flexbox & Grid	Developed flexible page structure
-Oct 31	CSS Box Model	Created calculator layout using Grid
-Oct 31	Pseudo-classes	Added animations, transitions & tooltips
-Oct 31	Responsive Design	Used media queries to make website mobile-friendly
+## 💬 Acknowledgment
 
+A special thanks to **Mr. Deepak Prasad** and **Mr. Sahil Kumar** for their continuous guidance, supportive feedback, and goal-oriented mentorship throughout the learning journey.
 
-📅 Daily Progress Summary
+---
 
-Oct 9: Learned basic web architecture & HTML table creation
+## 👨‍💻 Author Information
 
-Oct 10: Explored block and inline HTML behavior
+| Field | Details |
+|------|---------|
+| **Name** | **Dhruv Tiwari** |
+| **Course** | Frontend Development (HTML & CSS) |
+| **Institution** | GLA University, Mathura |
 
-Oct 13: Introduction to CSS styling, spacing & layout positioning
+---
 
-Oct 16: Applied Flexbox and Grid to design responsive layouts
-
-Oct 30: Worked on CSS Box Model and applied gradient styling
-
-Oct 31: Implemented animations using transitions & transforms
-
-Nov 3: Achieved mobile-first responsive page layout
-
-🧰 Tools & Technologies
-
-Visual Studio Code + Live Server
-
-Git & GitHub for version control
-
-HTML5 / CSS3
-
-Flexbox & Grid
-
-💬 Acknowledgment
-
-A sincere thanks to Mr. Deepak Prasad and Mr. Sahil Kumar for consistent guidance, real-world insights, and meaningful feedback that helped in strengthening conceptual and practical understanding.
-
-
-👨‍💻 Author: Dhruv Tiwari
-
-Course: Frontend Development (HTML & CSS)
-
-Institution: GLA University, Mathura
-
+⭐ *If you found this repository helpful, consider giving it a star on GitHub!* 🙂
