@@ -13,16 +13,19 @@ The course builds a strong understanding of the core frontend stack starting fro
 ### 🚀 Learning Milestones
 | Stage | Topic Covered |
 |------|---------------|
-| 1️⃣ | Getting started with Web Basics (Web, Server, Ports) |
-| 2️⃣ | HTML Foundation (Tags, Lists, Media, Hyperlinks) |
-| 3️⃣ | Block vs Inline Elements |
-| 4️⃣ | Working with Iframes |
-| 5️⃣ | CSS Basics (Selectors, Colors, Typography) |
-| 6️⃣ | Flexbox & Grid Layout |
-| 7️⃣ | CSS Box Model & Spacing Techniques |
-| 8️⃣ | Pseudo-classes, Hover Effects & Animations |
-| 9️⃣ | Responsive Web Design using Media Queries |
-| 🔟 | Introduction to Bootstrap |
+| 1. | Getting started with Web Basics (Web, Server, Ports) |
+| 2. | HTML Foundation (Tags, Lists, Media, Hyperlinks) |
+| 3. | Block vs Inline Elements |
+| 4. | Working with Iframes |
+| 5. | CSS Basics (Selectors, Colors, Typography) |
+| 6. | Flexbox & Grid Layout |
+| 7. | CSS Box Model & Spacing Techniques |
+| 8. | Pseudo-classes, Hover Effects & Animations |
+| 9. | Responsive Web Design using Media Queries |
+| 10. | Introduction to Bootstrap |
+| 11. | Introduction to Java Script
+| 12. | Java Script Operators
+
 
 ---
 
@@ -40,6 +43,7 @@ The course builds a strong understanding of the core frontend stack starting fro
 | `css-model` | Box Model, Gradient, and UI layout structure |
 | `css-classes` | Pseudo-classes & animation effects |
 | `responsive-css` | Responsive web design with media queries |
+| `Java-Script` | Learn Variables,datatypes,operations,control statements |
 
 ---
 
@@ -56,6 +60,9 @@ The course builds a strong understanding of the core frontend stack starting fro
 | **Oct 31** | CSS Box Model | Built a calculator layout using Grid |
 | **Oct 31** | Pseudo-classes | Added hover, active, tooltip & transitions |
 | **Oct 31** | Responsive Design | Built mobile-first responsive layouts |
+| **Nov 10** | Bootstrap | Made Many Different beautiful Sites |
+| **Nov 12** | Intro to JS | Implement Variables,operations and control statements |
+| **Nov 15** | JS Operators | Implemented Scopes |
 
 ---
 
@@ -70,6 +77,10 @@ The course builds a strong understanding of the core frontend stack starting fro
 | **Oct 30** | Practiced Box Model and gradient backgrounds |
 | **Oct 31** | Added animations using transition & transform |
 | **Nov 3** | Designed a fully responsive web page |
+| **Nov 7** | Mastered HTML CSS Library,Made Bootstrap header and personal portfolio |
+| **Nov 10** | Mastered Variable,Operations and Control Statements,Implement all above things |
+| **Nov 12** | Mastered Scopes And DOM Manipulation |
+
 
 ---
 
@@ -103,3 +114,4 @@ A special thanks to **Mr. Deepak Prasad** and **Mr. Sahil Kumar** for their cont
 ---
 
 ⭐ *If you found this repository helpful, consider giving it a star on GitHub!* 🙂
+
